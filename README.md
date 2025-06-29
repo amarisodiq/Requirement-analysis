@@ -61,7 +61,8 @@ Use Case Diagrams are visual representations that show how different users (acto
 - Help identify different user roles and their interactions with the system.
 - Support validation of requirements with stakeholders early in the development process.
 
-(./image/alx-booking-uc.png)
+!(./image/alx-booking-uc.png)
+
 
 ## Acceptance Criteria
 
